@@ -1,0 +1,31 @@
+{
+  "name": "taaabs-obsel-inspector-type",
+  "version": "1.0.0",
+  "description": "`<taaabs-obsel-inspector-type>` display a graphical representation of detailled informations about Obsels Types.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "taaabs"
+  ],
+  "authors": [
+    "TaaabsTeam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaaabsElements/taaabs-obsel-inspector-type.git"
+  },
+  "main": "taaabs-obsel-inspector-type.html",
+  "license": "https://github.com/TaaabsElements/taaabs-obsel-inspector-type/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0",
+    "paper-toggle-button": "polymerelements/paper-toggle-button#^1.0.0",
+    "paper-toast": "polymerelements/paper-toast#^1.0.0",
+		"paper-item": "polymerelements/paper-item#^1.0.0",
+    "paper-slider": "polymerelements/paper-slider#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
